@@ -19,6 +19,8 @@ public class Basic2 {
 		else
 			System.out.println(total);
 		
+		//
+		
 		
 	}
 
