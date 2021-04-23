@@ -18,6 +18,8 @@ public class Basic2 {
 			display(i);
 		else
 			System.out.println(total);
+
+//comment symbol
 		
 		
 	}
